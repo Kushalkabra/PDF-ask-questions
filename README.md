@@ -154,8 +154,6 @@ Ask Question
             "answer": "The PDF contains information about..."
         }
 
-Demo Video
 
-https://github.com/rekha0suthar/pdf-quest-ans-ai/assets/71004640/e61be31b-8c7d-47f2-984b-96c46d555532
 
 
